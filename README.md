@@ -119,3 +119,12 @@ We produce a huge image with more than 470 MB, but no worries, we can always wor
 docker tag oracle-linux elaroussi/oracle-linux:v1
 docker push elaroussi/oracle-linux
 ```
+
+## More stuff
+
+- Binary image on Docker Hub: <https://hub.docker.com/repository/docker/elaroussi/oracle-linux>
+- Oracle jet task: <https://github.com/Abdelar/Oracle_Jet_App>
+
+## Find Me on LinkedIn
+
+<https://www.linkedin.com/in/elaroussi>
