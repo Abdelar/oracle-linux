@@ -1,4 +1,6 @@
-# Dockerfile for creating a Docker image based on Oracle Linux
+# Creating a Docker image with a simple web application
+
+![capture](./captures/Capture.PNG)
 
 ## Docker version
 
