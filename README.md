@@ -93,7 +93,7 @@ docker run --rm -d -p 80:80/tcp --memory=256m --cpu-shares=512 --name client1 or
 
 ## Opening the deployed web app in a browser
 
-![capture](captures\Capture.PNG)
+![capture](./captures/Capture.PNG)
 
 ## Save the image
 
